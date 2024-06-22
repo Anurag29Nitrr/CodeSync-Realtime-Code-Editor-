@@ -1,6 +1,5 @@
 REALTIME CODE EDITOR
-(There is some issue with the deployement link so here are the screenshots)
-(https://code-sync-by-taresh.netlify.app/)
+
 
 Login Page ---->
 
